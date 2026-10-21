@@ -1,0 +1,9 @@
+{
+  "name": "can-vidalet-missio-secreta",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Joc multijugador escolar de misteri, sense violència",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "socket.io": "^4.8.1" }
+}
